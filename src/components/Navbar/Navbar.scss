@@ -1,0 +1,55 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 12vh;
+  width: 100vw;
+  z-index: 10;
+  background-color: transparent;
+
+  .navbar__navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 90%;
+    height: 100%;
+    .navbar__logo {
+      display: flex;
+      justify-self: flex-end;
+      img {
+        width: 20vh;
+        height: auto;
+      }
+      .navbar__header {
+        font-family: 'Montserrat';
+        font-weight: 600;
+        font-size: 4vh;
+      }
+    }
+  }
+  .navbar__button {
+    color: white;
+    background-color: black;
+    padding: 1.4vh;
+    border-radius: 5px;
+    border: none;
+    margin: 0.2vh;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1.3vh;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    &:hover {
+      color: #da8d45;
+    }
+  }
+}
+
+.navbar.active {
+  background-color: rgba(255, 255, 255, 0.8);
+  position: fixed;
+  height: 8vh;
+  .navbar__header {
+    display: none;
+  }
+}

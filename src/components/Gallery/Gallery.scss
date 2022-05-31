@@ -1,0 +1,10 @@
+.gallery {
+  height: 88vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 20vw);
+  grid-auto-rows: 25vw;
+  column-gap: 0.5vh;
+  row-gap: 2vh;
+  justify-content: center;
+}
