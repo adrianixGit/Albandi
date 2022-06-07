@@ -225,6 +225,22 @@
     },
 
     {
+      "src": "/img/horizontal/cold_white/black/ltf-l_h015_bk_cw.jpg",
+      "orientation": "horizontal",
+      "light_color": "cold_white",
+      "color": "black",
+      "name": "ltf-l_h015_bk_cw"
+    },
+
+    {
+      "src": "/img/vertical/cold_white/black/ltf-l_v015_bk_cw.jpg",
+      "orientation": "vertical",
+      "light_color": "cold_white",
+      "color": "black",
+      "name": "ltf-l_v015_bk_cw"
+    },
+
+    {
       "src": "/img/horizontal/cold_white/gray/ltf-l_h001_gr_cw.jpg",
       "orientation": "horizontal",
       "light_color": "cold_white",
@@ -446,6 +462,22 @@
       "light_color": "cold_white",
       "color": "gray",
       "name": "ltf-l_v014_gr_cw"
+    },
+
+    {
+      "src": "/img/horizontal/cold_white/gray/ltf-l_h015_gr_cw.jpg",
+      "orientation": "horizontal",
+      "light_color": "cold_white",
+      "color": "gray",
+      "name": "ltf-l_h015_gr_cw"
+    },
+
+    {
+      "src": "/img/vertical/cold_white/gray/ltf-l_v015_gr_cw.jpg",
+      "orientation": "vertical",
+      "light_color": "cold_white",
+      "color": "gray",
+      "name": "ltf-l_v015_gr_cw"
     },
 
     {
@@ -673,6 +705,22 @@
     },
 
     {
+      "src": "/img/horizontal/cold_white/white/ltf-l_h015_wh_cw.jpg",
+      "orientation": "horizontal",
+      "light_color": "cold_white",
+      "color": "white",
+      "name": "ltf-l_h015_wh_cw"
+    },
+
+    {
+      "src": "/img/vertical/cold_white/white/ltf-l_v015_wh_cw.jpg",
+      "orientation": "vertical",
+      "light_color": "cold_white",
+      "color": "white",
+      "name": "ltf-l_v015_wh_cw"
+    },
+
+    {
       "src": "/img/horizontal/cold_white/natural/ltf-l_h001_nat_cw.jpg",
       "orientation": "horizontal",
       "light_color": "cold_white",
@@ -894,6 +942,22 @@
       "light_color": "cold_white",
       "color": "natural",
       "name": "ltf-l_v014_nat_cw"
+    },
+
+    {
+      "src": "/img/horizontal/cold_white/natural/ltf-l_h015_nat_cw.jpg",
+      "orientation": "horizontal",
+      "light_color": "cold_white",
+      "color": "natural",
+      "name": "ltf-l_h015_nat_cw"
+    },
+
+    {
+      "src": "/img/vertical/cold_white/natural/ltf-l_v015_nat_cw.jpg",
+      "orientation": "vertical",
+      "light_color": "cold_white",
+      "color": "natural",
+      "name": "ltf-l_v015_nat_cw"
     },
 
     {
@@ -1121,6 +1185,22 @@
     },
 
     {
+      "src": "/img/horizontal/warm_white/black/ltf-l_h015_bk_ww.jpg",
+      "orientation": "horizontal",
+      "light_color": "warm_white",
+      "color": "black",
+      "name": "ltf-l_h015_bk_ww"
+    },
+
+    {
+      "src": "/img/vertical/warm_white/black/ltf-l_v015_bk_ww.jpg",
+      "orientation": "vertical",
+      "light_color": "warm_white",
+      "color": "black",
+      "name": "ltf-l_v015_bk_ww"
+    },
+
+    {
       "src": "/img/horizontal/warm_white/gray/ltf-l_h001_gr_ww.jpg",
       "orientation": "horizontal",
       "light_color": "warm_white",
@@ -1342,6 +1422,22 @@
       "light_color": "warm_white",
       "color": "gray",
       "name": "ltf-l_v014_gr_ww"
+    },
+
+    {
+      "src": "/img/horizontal/warm_white/gray/ltf-l_h015_gr_ww.jpg",
+      "orientation": "horizontal",
+      "light_color": "warm_white",
+      "color": "gray",
+      "name": "ltf-l_h015_gr_ww"
+    },
+
+    {
+      "src": "/img/vertical/warm_white/gray/ltf-l_v015_gr_ww.jpg",
+      "orientation": "vertical",
+      "light_color": "warm_white",
+      "color": "gray",
+      "name": "ltf-l_v015_gr_ww"
     },
 
     {
@@ -1569,6 +1665,22 @@
     },
 
     {
+      "src": "/img/horizontal/warm_white/white/ltf-l_h015_wh_ww.jpg",
+      "orientation": "horizontal",
+      "light_color": "warm_white",
+      "color": "white",
+      "name": "ltf-l_h015_wh_ww"
+    },
+
+    {
+      "src": "/img/vertical/warm_white/white/ltf-l_v015_wh_ww.jpg",
+      "orientation": "vertical",
+      "light_color": "warm_white",
+      "color": "white",
+      "name": "ltf-l_v015_wh_ww"
+    },
+
+    {
       "src": "/img/horizontal/warm_white/natural/ltf-l_h001_nat_ww.jpg",
       "orientation": "horizontal",
       "light_color": "warm_white",
@@ -1790,6 +1902,22 @@
       "light_color": "warm_white",
       "color": "natural",
       "name": "ltf-l_v014_nat_ww"
+    },
+
+    {
+      "src": "/img/horizontal/warm_white/natural/ltf-l_h015_nat_ww.jpg",
+      "orientation": "horizontal",
+      "light_color": "warm_white",
+      "color": "natural",
+      "name": "ltf-l_h015_nat_ww"
+    },
+
+    {
+      "src": "/img/vertical/warm_white/natural/ltf-l_v015_nat_ww.jpg",
+      "orientation": "vertical",
+      "light_color": "warm_white",
+      "color": "natural",
+      "name": "ltf-l_v015_nat_ww"
     }
   ]
 }

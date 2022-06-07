@@ -1,3 +1,9 @@
+@mixin tablet {
+  @media (max-width: 1000px) {
+    @content;
+  }
+}
+
 .galleryCard {
   width: 20vw;
   height: 25vw;
@@ -62,8 +68,12 @@
     .galleryCard__description {
       box-shadow: 0px 16px 24px -12px rgba(0, 0, 0, 1);
       .galleryCard__pattern {
-        color: #da8d45;
+        color: #d4b895;
       }
     }
+  }
+  @include tablet {
+    width: 45vw;
+    height: 50vw;
   }
 }

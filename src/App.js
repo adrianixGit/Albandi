@@ -8,7 +8,14 @@ function App() {
   const [color, setColor] = useState('');
   return (
     <div className="App">
-      <Navbar setColorTemp={setColorTemp} setOrientation={setOrientation} setColor={setColor} />
+      <Navbar
+        setColorTemp={setColorTemp}
+        setOrientation={setOrientation}
+        setColor={setColor}
+        colorTemp={colorTemp}
+        orientation={orientation}
+        color={color}
+      />
       <Gallery colorTemp={colorTemp} orientation={orientation} color={color} />
     </div>
   );

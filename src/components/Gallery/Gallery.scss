@@ -1,3 +1,8 @@
+@mixin tablet {
+  @media (max-width: 1000px) {
+    @content;
+  }
+}
 .gallery {
   height: 88vh;
   width: 100%;
@@ -7,4 +12,8 @@
   column-gap: 0.5vh;
   row-gap: 2vh;
   justify-content: center;
+  @include tablet {
+    grid-template-columns: repeat(2, 45vw);
+    grid-auto-rows: 50vw;
+  }
 }

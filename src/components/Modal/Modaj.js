@@ -9,7 +9,9 @@ function Modal({ onModalStateAndSrc, modalSrc }) {
     <div className="modal">
       <img src={modalSrc} />
       <button className="modal__closeBtn" onClick={toggleModal}>
-        X
+        <div className="modal__line"></div>
+        <div className="modal__line"></div>
+        <div className="modal__line"></div>
       </button>
     </div>
   );

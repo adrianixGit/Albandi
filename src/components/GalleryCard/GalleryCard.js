@@ -6,8 +6,8 @@ function GalleryCard({ onModalStateAndSrc, src, name }) {
   };
 
   return (
-    <div className="galleryCard" onClick={toggleModal}>
-      <div className="galleryCard__img">
+    <div className="galleryCard">
+      <div className="galleryCard__img" onClick={toggleModal}>
         <img src={src} />
       </div>
       <div className="galleryCard__description">
